@@ -1,6 +1,6 @@
 ## Hi there 🙋🏻‍♀️  
 
-I'm **Subhasya Santhoshi**, a **Data & Business Analyst** passionate about turning raw data into impactful insights. Whether it's finding trends, optimizing processes, or building predictive models—I'm all about **data-driven decision-making!**  
+I'm **Subhasya Santhoshi**, a **Data & Business Analyst** passionate about turning raw data into impactful insights. Whether it's finding trends, optimizing processes, or building predictive models, I'm all about **data-driven decision-making!**  
 
 📍 **India** | 🎓 **PG Grad from IIIT Bangalore** | 📊 **Data Enthusiast & Storyteller**  
 
