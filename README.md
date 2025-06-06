@@ -6,7 +6,7 @@ I'm **Subhasya Santhoshi**, a **AI + BI Developer** passionate about turning raw
 
 # ✨ About Me in 30 Seconds ✨  
 
-- 🎓 **PG Diploma in Data Science** | IIIT Bangalore  
+- 🎓 **PG Diploma in Data Science & Artificial Intelligence** | IIIT Bangalore  
 - 🛠️ **Tech Stack:**  GenAI & Automation Platforms | Python 🐍 | SQL 🗄️ | Excel 📊 | Tableau & Power BI 🎨  
 - 📈 **Love transforming complex data into meaningful stories & business strategies**
 - 📊 **Built AI systems that improved conversions, automated workflows, and enhanced customer experience** 
