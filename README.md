@@ -1,6 +1,7 @@
 **👋 Hi, I'm Subhasya Santhoshi**
 
 ***AI Engineer | Automation Architect | Business Intelligence Strategist***
+
 📍 India | 🎓 PG Diploma in Data Science & AI – IIIT Bangalore
 
 I'm a results-driven engineer specializing in building intelligent automation systems, data-driven insights, and AI-powered business solutions. I combine deep technical expertise with business acumen to design systems that optimize workflows, enable smarter decisions, and scale business performance.
