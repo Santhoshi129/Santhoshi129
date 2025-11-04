@@ -1,18 +1,44 @@
-## Hi there 🙋🏻‍♀️  
+👋 Hi, I'm Subhasya Santhoshi
 
-I'm **Subhasya Santhoshi**, a **AI + BI Developer** passionate about turning raw data into smart, scalable, and strategic intelligence. From building predictive models to deploying GenAI workflows, I use **Artificial Intelligence** to solve real business problems and automate decision-making.   
+AI Engineer | Automation Architect | Business Intelligence Strategist
+📍 India | 🎓 PG Diploma in Data Science & AI – IIIT Bangalore
 
-📍 **India** | 🎓 **PG Grad from IIIT Bangalore** | 📊 **GenAI Workflow Designer & ML Enthusiast**  
+I'm a results-driven engineer specializing in building intelligent automation systems, data-driven insights, and AI-powered business solutions. I combine deep technical expertise with business acumen to design systems that optimize workflows, enable smarter decisions, and scale business performance.
 
-# ✨ About Me in 30 Seconds ✨  
+🌟 What I Do
 
-- 🎓 **PG Diploma in Data Science & Artificial Intelligence** | IIIT Bangalore  
-- 🛠️ **Tech Stack:**  GenAI & Automation Platforms | Python 🐍 | SQL 🗄️ | Excel 📊 | Tableau & Power BI 🎨  
-- 📈 **Love transforming complex data into meaningful stories & business strategies**
-- 📊 **Built AI systems that improved conversions, automated workflows, and enhanced customer experience** 
-- 🔍 **Deep interest in Artificial Intelligence, Data Engineering, Predictive Analytics, and Process Automation** 
-- 🚀 **Curious, Resilient & Always Learning, Always building!**
+Engineer AI Workflows & Agents using n8n, LangChain, OpenAI, and custom API logic
 
-📫 **Let's Connect!**  
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/subhasya-santhoshi/](#)  
+Design Automated Business Systems for lead funneling, customer ops, workflows, and reporting
+
+Build Predictive Insights & Dashboards using Python, SQL, Power BI, and Tableau
+
+Consult on AI Integration Strategy for businesses looking to scale with data + automation
+
+🏆 Key Achievements
+
+Delivered AI-based automation that reduced manual operations by 60% and improved ROI for multiple clients
+
+Designed ML models and BI systems that drove data-backed decision-making and enhanced customer experience
+
+Led end-to-end implementation of multi-system automations using n8n and Zapier for eCommerce, SaaS, and digital-first businesses
+
+Developed scalable AI-driven pipelines for analytics and operational intelligence
+
+Recognized for bridging technical excellence with business value in every project
+
+🧠 Tech Arsenal
+
+AI & ML: OpenAI, LangChain, Scikit-learn, TensorFlow
+Automation: n8n, Zapier, Make.com, Python APIs
+Data & BI: Python, SQL, Power BI, Tableau, Excel, Google Analytics
+Other: Git, REST/Webhooks, Docker, Prompt Engineering
+
+🔗 Let’s Connect
+
+💼 LinkedIn: https://www.linkedin.com/in/subhasya-santhoshi/
+
+📧 Email: subhasyasanthoshi129@gmail.com
+
+
  
