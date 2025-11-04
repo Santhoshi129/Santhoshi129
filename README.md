@@ -1,4 +1,4 @@
-👋 Hi, I'm Subhasya Santhoshi
+##👋 Hi, I'm Subhasya Santhoshi
 
 AI Engineer | Automation Architect | Business Intelligence Strategist
 📍 India | 🎓 PG Diploma in Data Science & AI – IIIT Bangalore
@@ -7,25 +7,25 @@ I'm a results-driven engineer specializing in building intelligent automation sy
 
 🌟 What I Do
 
-Engineer AI Workflows & Agents using n8n, LangChain, OpenAI, and custom API logic
+- Engineer AI Workflows & Agents using n8n, LangChain, OpenAI, and custom API logic
 
-Design Automated Business Systems for lead funneling, customer ops, workflows, and reporting
+- Design Automated Business Systems for lead funneling, customer ops, workflows, and reporting
 
-Build Predictive Insights & Dashboards using Python, SQL, Power BI, and Tableau
+- Build Predictive Insights & Dashboards using Python, SQL, Power BI, and Tableau
 
-Consult on AI Integration Strategy for businesses looking to scale with data + automation
+- Consult on AI Integration Strategy for businesses looking to scale with data + automation
 
 🏆 Key Achievements
 
-Delivered AI-based automation that reduced manual operations by 60% and improved ROI for multiple clients
+- Delivered AI-based automation that reduced manual operations by 60% and improved ROI for multiple clients
 
-Designed ML models and BI systems that drove data-backed decision-making and enhanced customer experience
+- Designed ML models and BI systems that drove data-backed decision-making and enhanced customer experience
 
-Led end-to-end implementation of multi-system automations using n8n and Zapier for eCommerce, SaaS, and digital-first businesses
+- Led end-to-end implementation of multi-system automations using n8n and Zapier for eCommerce, SaaS, and digital-first businesses
 
-Developed scalable AI-driven pipelines for analytics and operational intelligence
+- Developed scalable AI-driven pipelines for analytics and operational intelligence
 
-Recognized for bridging technical excellence with business value in every project
+- Recognized for bridging technical excellence with business value in every project
 
 🧠 Tech Arsenal
 
