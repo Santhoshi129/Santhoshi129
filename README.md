@@ -1,4 +1,4 @@
-##👋 Hi, I'm Subhasya Santhoshi##
+👋 Hi, I'm Subhasya Santhoshi
 
 AI Engineer | Automation Architect | Business Intelligence Strategist
 📍 India | 🎓 PG Diploma in Data Science & AI – IIIT Bangalore
