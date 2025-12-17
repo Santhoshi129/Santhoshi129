@@ -1,4 +1,4 @@
-**👋 Hi, I'm Subhasya Santhoshi **
+**👋 Hi, I'm Subhasya Santhoshi**
 
 ***Freelance AI Automation Specialist & AI Engineer | Workflow & Systems Architect***
 
