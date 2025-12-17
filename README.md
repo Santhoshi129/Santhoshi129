@@ -1,39 +1,47 @@
-**👋 Hi, I'm Subhasya Santhoshi**
+**👋 Hi, I'm Subhasya Santhoshi **
 
-***AI Engineer | Automation Architect | Business Intelligence Strategist***
+***Freelance AI Automation Specialist & AI Engineer | Workflow & Systems Architect***
 
 📍 India | 🎓 PG Diploma in Data Science & AI – IIIT Bangalore
 
-I'm a results-driven engineer specializing in building intelligent automation systems, data-driven insights, and AI-powered business solutions. I combine deep technical expertise with business acumen to design systems that optimize workflows, enable smarter decisions, and scale business performance.
+I design and implement AI-driven automation systems that streamline operations, reduce manual effort, and improve system reliability. My work focuses on building production-ready workflows using LLMs, APIs, and automation platforms, with a strong emphasis on clean architecture and long-term maintainability.
 
-**🌟 What I Do**
+I approach problems from a systems perspective — translating business requirements into structured, scalable automation solutions that operate reliably in real-world environments.
 
-- Engineer AI Workflows & Agents using n8n, LangChain, OpenAI, and custom API logic
+**🌟 Professional Impact**
 
-- Design Automated Business Systems for lead funneling, customer ops, workflows, and reporting
+- Delivered AI automation systems that reduced manual operational effort by up to 60%
 
-- Build Predictive Insights & Dashboards using Python, SQL, Power BI, and Tableau
+- Built and maintained multi-system automation pipelines integrating CRMs, APIs, and databases
 
-- Consult on AI Integration Strategy for businesses looking to scale with data + automation
+- Designed workflows optimized for stability, performance, and cost efficiency
 
-**🏆 Key Achievements**
+- Recognized for consistently aligning technical execution with business outcomes
 
-- Delivered AI-based automation that reduced manual operations by 60% and improved ROI for multiple clients
+**Core Expertise**
+AI Automation :
 
-- Designed ML models and BI systems that drove data-backed decision-making and enhanced customer experience
+Design and implementation of LLM-powered workflows using n8n, OpenAI, LangChain
 
-- Led end-to-end implementation of multi-system automations using n8n and Zapier for eCommerce, SaaS, and digital-first businesses
+Intelligent automation for operations, customer workflows, and internal tooling
 
-- Developed scalable AI-driven pipelines for analytics and operational intelligence
+Event-driven architectures using webhooks, APIs, and conditional logic
 
-- Recognized for bridging technical excellence with business value in every project
+Robust workflow design with retries, fallbacks, logging, and error handling
 
-**🧠 Tech Arsenal**
+AI Engineering :
 
-AI & ML: OpenAI, LangChain, Scikit-learn, TensorFlow
-Automation: n8n, Zapier, Make.com, Python APIs
-Data & BI: Python, SQL, Power BI, Tableau, Excel, Google Analytics
-Other: Git, REST/Webhooks, Docker, Prompt Engineering
+Prompt engineering and structured LLM outputs
+
+API-based AI integrations and micro-services
+
+Modular automation architecture for scalability and reuse
+
+**Tech Stack**
+
+AI & ML: OpenAI, LangChain, Prompt Engineering, FUnction Calling
+Automation: n8n, Zapier, Make.com, Python, Rest APIs, Webhooks, GHL
+Engineering Practices: System Design, Workflow Architecture, Error Handling, Git, Docker, Documentation
 
 **🔗 Let’s Connect**
 
